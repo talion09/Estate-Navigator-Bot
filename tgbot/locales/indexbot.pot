@@ -1,0 +1,57 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-12-21 23:39+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/about.py:19
+msgid "Выберите язык"
+msgstr ""
+
+#: handlers/users/about.py:20 handlers/users/rent.py:16
+#: handlers/users/rent.py:49 handlers/users/rent.py:172
+#: handlers/users/rent.py:189 handlers/users/sale.py:18
+#: handlers/users/sale.py:50 handlers/users/sale.py:171
+#: handlers/users/sale.py:188
+msgid "Главное Меню"
+msgstr ""
+
+#: handlers/users/rent.py:17 handlers/users/rent.py:50
+#: handlers/users/rent.py:99 handlers/users/rent.py:190
+#: handlers/users/sale.py:19 handlers/users/sale.py:51
+#: handlers/users/sale.py:100 handlers/users/sale.py:189
+#: handlers/users/sale.py:232
+msgid "Назад"
+msgstr ""
+
+#: handlers/users/rent.py:38
+msgid "Выберите район"
+msgstr ""
+
+#: handlers/users/rent.py:86 handlers/users/rent.py:218
+#: handlers/users/sale.py:87 handlers/users/sale.py:217
+msgid "Выберите количество комнат"
+msgstr ""
+
+#: handlers/users/rent.py:101 handlers/users/sale.py:102
+#: handlers/users/sale.py:234
+msgid "Заказать осмотр квартиры"
+msgstr ""
+
+#: handlers/users/rent.py:175 handlers/users/sale.py:174
+msgid "Все квартиры: "
+msgstr ""
+

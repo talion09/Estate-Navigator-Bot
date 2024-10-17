@@ -1,0 +1,69 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-06-20 17:21+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: tgbot/handlers/users/about.py:14
+msgid ""
+"Агентство недвижимости\n"
+"<b>Поможет</b>\n"
+"☑️ продать/купить\n"
+"☑️ снять/сдать\n"
+"☑️ оформить наследство\n"
+"☑️ бесплатная консультация\n"
+"\n"
+"<b>+998 99 036-44-44</b>"
+msgstr ""
+
+#: tgbot/handlers/users/about.py:31
+msgid "Выберите язык"
+msgstr ""
+
+#: tgbot/handlers/users/about.py:32 tgbot/handlers/users/rent.py:16
+#: tgbot/handlers/users/rent.py:49 tgbot/handlers/users/rent.py:109
+#: tgbot/handlers/users/rent.py:197 tgbot/handlers/users/sale.py:18
+#: tgbot/handlers/users/sale.py:50 tgbot/handlers/users/sale.py:109
+#: tgbot/handlers/users/sale.py:200
+msgid "Главное Меню"
+msgstr ""
+
+#: tgbot/handlers/users/rent.py:17 tgbot/handlers/users/rent.py:50
+#: tgbot/handlers/users/rent.py:107 tgbot/handlers/users/rent.py:198
+#: tgbot/handlers/users/sale.py:19 tgbot/handlers/users/sale.py:51
+#: tgbot/handlers/users/sale.py:107 tgbot/handlers/users/sale.py:201
+#: tgbot/handlers/users/sale.py:249
+msgid "Назад"
+msgstr ""
+
+#: tgbot/handlers/users/rent.py:38
+msgid "Выберите район"
+msgstr ""
+
+#: tgbot/handlers/users/rent.py:53 tgbot/handlers/users/rent.py:230
+#: tgbot/handlers/users/sale.py:62 tgbot/handlers/users/sale.py:234
+msgid "Выберите количество комнат"
+msgstr ""
+
+#: tgbot/handlers/users/rent.py:108 tgbot/handlers/users/sale.py:108
+#: tgbot/handlers/users/sale.py:251
+msgid "Заказать осмотр квартиры"
+msgstr ""
+
+#: tgbot/handlers/users/rent.py:110 tgbot/handlers/users/sale.py:110
+msgid "Все квартиры: "
+msgstr ""
+
